@@ -1,0 +1,128 @@
+
+title 
+{
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+
+body {
+  background-image: url(T.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+h1
+{
+  color: Black;
+  text-align: center;
+  font-family: cursive;
+font-size: 50px;
+}
+
+h2
+{
+  color: Black;
+  text-align: center;
+  font-family: Courier;
+font-size: 20px;
+}
+
+h3
+{
+  color: #003399;
+  text-align: center;
+  font-family: Overlock;
+font-size: 20px;
+}
+
+p {
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #928EB1;
+}
+
+.topnav a {
+  float: left;
+  color: wHITE;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #c44483;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: #c44483;
+  color: white;
+}
+
+img {
+border-radius: 8px;
+border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 240px;
+  height:320px
+
+}
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td, {
+  text-align: center;
+  padding: 8 px;
+}
+
+tr:nth-child(even){background-color: #FFCCFF}
+
+th {
+  background-color: #808000;
+  color: white;
+}
+.button {
+  background-color: #CC99CC;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  Border-radius:12px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+ul.a {
+   text-align: center;
+}
+
+ol.c {
+   text-align: center;
+}
+video {
+   display: block;
+   margin:auto;
+}
